@@ -1,3 +1,4 @@
+<center>
 ### Neural Magic Documentation
 
 <div align="center">
@@ -26,3 +27,4 @@ and the [style guide](https://www.neuralmagic.com/community/contribute/docs_styl
 ## License
 
 [Apache License 2.0](LICENSE)
+</center>
