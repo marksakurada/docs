@@ -6,8 +6,9 @@
 </div>
 
 <div align="center">
-These are the top level source files for the documentation on
-https://docs.neuralmagic.com.<br><br>
+This repo hosts and stages the top level source files on<br>
+https://docs.neuralmagic.com.<br>
+These docs are best-viewed there, thanks!<br><br>
 
 To learn more about Neural Magic's specific projects, check out documentation links below.<br> 
 To file a docs issue for a specific software component, use the issue tracker for that repo:
