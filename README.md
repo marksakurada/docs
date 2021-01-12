@@ -1,5 +1,5 @@
 
-<h2>Neural Magic Documentation</h2>
+<div align="center"><h2>Neural Magic Documentation</h2></div>
 
 <div align="center">
   <img src="https://neuralmagic.com/wp-content/themes/neural-magic/assets/img/logo-header2.svg" width="300" height="102" ALT="Neural Magic logo"><br><br>
@@ -20,9 +20,10 @@ To file a docs issue for a specific software component, use the issue tracker fo
 | [SparseZoo](https://docs.neuralmagic.com/sparsify)  | [neuralmagic/sparsezoo](https://github.com/neuralmagic/sparsezoo/issues/new)      |
 | [Deep Sparse Engine](https://docs.neuralmagic.com/sparsify)  | [neuralmagic/engine](https://github.com/neuralmagic/engine/issues/new)      |
 
-To contribute to the Neural Magic documentation, please read
-[JEANNIE NEEDS TO ADD]
-[CONTRIBUTING.md](CONTRIBUTING.md<br> 
-[Neural Magic docs contributor guide](https://www.neuralmagic.com/community/contribute/docs)<br>[style guide](https://www.neuralmagic.com/community/contribute/docs_style)<br>
+To contribute to the Neural Magic documentation, please read<br>
+[JEANNIE NEEDS TO ADD]<br><br>
+[CONTRIBUTING.md](CONTRIBUTING.md<br><br><br>
+[Neural Magic docs contributor guide](https://www.neuralmagic.com/community/contribute/docs)<br><br>
+[style guide](https://www.neuralmagic.com/community/contribute/docs_style)<br><br>
 [Apache License 2.0](LICENSE)
 
