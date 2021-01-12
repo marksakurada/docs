@@ -1,15 +1,17 @@
-<center>
+
 ### Neural Magic Documentation
 
 <div align="center">
   <img src="https://neuralmagic.com/wp-content/themes/neural-magic/assets/img/logo-header2.svg" width="300" height="102" ALT="Neural Magic logo"><br><br>
 </div>
 
+<div align="center">
 These are the top level source files for the documentation on
 [docs.neuralmagic.com](https://docs.neuralmagic.com).
 
 To learn more about Neural Magic's specific projects, check out documentation links below.<br> 
 To file a docs issue for a specific software component, use the issue tracker for that repo:
+
 
 | Project-Specific Docs        | Issue Tracker |
 | ----------- | ----------- |
@@ -27,4 +29,4 @@ and the [style guide](https://www.neuralmagic.com/community/contribute/docs_styl
 ## License
 
 [Apache License 2.0](LICENSE)
-</center>
+</div>
