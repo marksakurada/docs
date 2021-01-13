@@ -35,15 +35,17 @@ To learn more about specific projects founded by Neural Magic, check out documen
 To file a docs issue for a specific software component, use the issue tracker for that repo:
 
 
-| Project-Specific Docs        | Issue Tracker |
-| ----------- | ----------- |
-| [SparseML](https://docs.neuralmagic.com/sparseml)       | [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml/issues/new)        |
-| [Sparsify](https://docs.neuralmagic.com/sparsify)  | [neuralmagic/sparsify](https://github.com/neuralmagic/sparsify/issues/new)      |
-| [SparseZoo](https://docs.neuralmagic.com/sparsify)  | [neuralmagic/sparsezoo](https://github.com/neuralmagic/sparsezoo/issues/new)      |
-| [Deep Sparse Engine](https://docs.neuralmagic.com/sparsify)  | [neuralmagic/engine](https://github.com/neuralmagic/engine/issues/new)      |
+| Project-Specific Docs | Issue Tracker | Releases | License |
+| ----------- | ----------- | ----------- | ----------- |
+| [SparseML](https://docs.neuralmagic.com/sparseml) | [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml/issues/new) | [Index](https://github.com/neuralmagic/spareml/releases) | Apache 2.0 |
+
+| [Sparsify](https://docs.neuralmagic.com/sparsify) | [neuralmagic/sparsify](https://github.com/neuralmagic/sparsify/issues/new) | [Index](https://github.com/neuralmagic/sparsify/releases) | Apache 2.0 |
+
+| [SparseZoo](https://docs.neuralmagic.com/sparsezoo)  | [neuralmagic/sparsezoo](https://github.com/neuralmagic/sparsezoo/issues/new) | [Index](https://github.com/neuralmagic/sparsezoo/releases) | Apache 2.0 |
+
+| [DeepSparse Engine](https://docs.neuralmagic.com/deepsparse)  | [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse/issues/new) | [Index](https://github.com/neuralmagic/deepsparse/releases)  | Apache 2.0 |
 
 To contribute to the Neural Magic documentation, please read<br>
-You can help to improve the ksqlDB documentation by contributing to this repo:
 
   Open a [GitHub issue](https://github.com/neuralmagic/docs/issues) and give it
   the `documentation` label.<br>
