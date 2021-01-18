@@ -4,15 +4,15 @@ Settings for a saved project can be accessed from your project's left navigation
 
 - Project Settings
 
-    <img src="images/image_63.jpg" alt="(Project settings)" width="440" height="190">
+    <kbd><img src="images/image_63.jpg" alt="(Project settings)" width="440" height="190" /></kbd>
 
 - Original Training Settings
 
-    <img src="images/image_63.jpg" alt="(Original training settings)" width="440" height="190">
+    <kbd><img src="images/image_63.jpg" alt="(Original training settings)" width="440" height="190" /></kbd>
 
 - Delete Project
 
-    <img src="images/image_65.jpg" alt="(Delete project)" width="500" height="40">
+    <kbd><img src="images/image_65.jpg" alt="(Delete project)" width="500" height="40" /></kbd>
 
 ---
 **Next step...**

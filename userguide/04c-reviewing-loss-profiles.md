@@ -2,7 +2,7 @@
 
 A loss profile is an indication of the effect of model optimizations on the loss. It shows how each layer responds to and is affected by optimization sensitivity such as pruning. The loss profile also shows how many parameters there are in the model.
 
-<img src="images/image_20.jpg" alt="(Loss profile)" width="440" height="270">
+<kbd><img src="images/image_20.jpg" alt="(Loss profile)" width="440" height="270" /></kbd>
 
 You might see two types of loss profiles listed in the Loss Profiles section of the navigation bar:
 
@@ -22,23 +22,23 @@ The Loss Profile consists of three sections:
 
 The Model Summary provides information about the loss profile, including the pruning and quantization (future release) settings that were used when the profile was run.
 
-<img src="images/image_21.jpg" alt="(Model summary)" width="500" height="150">
+<kbd><img src="images/image_21.jpg" alt="(Model summary)" width="500" height="150" /></kbd>
 
 The Model Summary also shows the total number of parameters and how much reduction Sparsify estimates as well as the loss sensitivity (an indication of how the model is affected by optimization) and estimated recovery (the estimated confidence in recovering the original loss of the model after retraining with the current model optimization).
 
 Average sensitivity indicates the loss sensitivity of the entire model. The estimated recovery value shows the chance of recovering the loss completely.
 
-<img src="images/image_21a.jpg" alt="(Average sensitivity and estimated recovery)" width="100" height="150">
+<kbd><img src="images/image_21a.jpg" alt="(Average sensitivity and estimated recovery)" width="100" height="150" /></kbd>
 
 The number of parameters (params) in a model corresponds to how well the model can be optimized. For example, if a model has a significant number of parameters, it will be very prunable because it is very redundant. The estimated parameters reduction shows how much model compression will result from optimization.
 
-<img src="images/image_21b.jpg" alt="(Params and estimated params reduction)" width="100" height="170">
+<kbd><img src="images/image_21b.jpg" alt="(Params and estimated params reduction)" width="100" height="170" /></kbd>
 
 ## Layer Sensitivities
 
 The Layer Sensitivities graph shows pruning sensitivity measure values at each layer. You will see which layer is the most sensitive to pruning and which is the least sensitive. (The value for each layer is relative and not in an exact range.) When the graph shows that a layer affects the loss significantly, you may not want to prune that layer.
 
-<img src="images/image_22.jpg" alt="(Layer sensitivities graph)" width="440" height="220">
+<kbd><img src="images/image_22.jpg" alt="(Layer sensitivities graph)" width="440" height="220" /></kbd>
 
 **Note:** When a model has more weights that are further from zero, the model is more sensitive to pruning.
 
@@ -48,19 +48,19 @@ This graph shows how many parameters are in each layer, which is important when 
 
 **Note:** There will be a rough correlation between the sensitivity and the number of parameters in a layer. A layer with fewer parameters will be more sensitive.
 
-<img src="images/image_23.jpg" alt="(Layer params graph)" width="440" height="220">
+<kbd><img src="images/image_23.jpg" alt="(Layer params graph)" width="440" height="220" /></kbd>
 
 ### Adding a New Loss Profile
 
 You can identify a new loss profile:
 
-1. Click the <img src="images/image_24.jpg" alt="(+ icon)" width="25" height="25"> icon in the Loss Profiles section of the navigation bar.
+1. Click the <kbd><img src="images/image_24.jpg" alt="(+ icon)" width="25" height="25" /></kbd> icon in the Loss Profiles section of the navigation bar.
 
 2. Enter the profile name.
 
 3. Click **ADD**.
 
-    <img src="images/image_25.jpg" alt="(New Loss Profile form)" width="380" height="200">
+<kbd><img src="images/image_25.jpg" alt="(New Loss Profile form)" width="380" height="200" /></kbd>
 
 ---
 **Next steps...**
