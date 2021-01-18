@@ -28,11 +28,11 @@ Export a configuration (yml) file and integrate code into your training workflow
 
 While *analyzing* and *optimizing* a model, five work sections are provided in the navigation bar for each project:
 
-<img src="images/image_4.jpg" alt="(Navigation bar with sections)" width="320" height="220">
+<kbd><img src="images/image_4.jpg" alt="(Navigation bar with sections)" width="320" height="220" /></kbd>
 
 When a section is active, it changes color. For example:
 
-<img src="images/image_5.jpg" alt="(Active section highlighted in purple)" width="240" height="40">
+<kbd><img src="images/image_5.jpg" alt="(Active section highlighted in purple)" width="240" height="40" /></kbd>
 
 **Performance Profiles** provide an indication of the effect of model optimizations on the inference performance of the model. In addition, they provide detailed performance information for the model without any optimizations.
 

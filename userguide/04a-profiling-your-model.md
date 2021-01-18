@@ -6,7 +6,7 @@ Profiling is used to determine how optimization will affect performance and loss
 
 - A loss profile is an indication of the effect of optimization on the loss. It shows how each layer is likely to affect the loss when model optimizations such as pruning are applied to it. The loss profile also shows how many parameters there are in the model.
 
-    <img src="images/image_11.jpg" alt="(Performance and Loss profiles selected)" width="300" height="240">
+    <kbd><img src="images/image_11.jpg" alt="(Performance and Loss profiles selected)" width="300" height="240" /></kbd>
 
     **Note:** If you change information on this dialog and then click **BACK**, the changes are retained when you return to this dialog.
 
@@ -30,11 +30,11 @@ Profiling is used to determine how optimization will affect performance and loss
 
 4. Click **RUN** and a message will indicate that the system is profiling the performance and/or loss.
 
-    <img src="images/image_12.jpg" alt="(Loading profiling performance)" width="300" height="240">
+    <kbd><img src="images/image_12.jpg" alt="(Loading profiling performance)" width="300" height="240" /></kbd>
 
     When all metrics are generated, the New Project Setup dialog is grayed out. For example:
 
-    <img src="images/image_13.jpg" alt="(Setup grayed out and option to click complete)" width="300" height="240">
+    <kbd><img src="images/image_13.jpg" alt="(Setup grayed out and option to click complete)" width="300" height="240" /></kbd>
 
 5. Click **COMPLETE**. The performance profile will be displayed, as described in [Reviewing Performance Profiles](04b-reviewing-performance-profiles.md).
 

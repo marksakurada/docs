@@ -1,11 +1,11 @@
 # Sparsify User Guide
 
-## [FIX TOC LINKS IN EHD]
+## [FIX TOC LINKS IN END]
 
 [Welcome to Sparsify](01-intro.md)
 
-- [About This Guide](./01-intro.md#about-this-guide)
-- [Feedback and Help](./01-intro.md#feedback-and-help)
+- [About This Guide](01-intro.md#about-this-guide)
+- [Feedback and Help](01-intro.md#feedback-and-help)
 
 [Installing and Launching Sparsify](02-install-sparsify.md)
 
@@ -20,14 +20,14 @@
 
 [Optimize](05-optimize.md)
 
-- [Running Sparsify for Model Optimization](./05-optimize.md#running-sparsify-for-model-optimization)
-- [Exporting](./05-optimize.md#exporting)
+- [Running Sparsify for Model Optimization](05-optimize.md#running-sparsify-for-model-optimization)
+- [Exporting](05-optimize.md#exporting)
 - [Benchmarking](05a-benchmark.md)
 
 [Integrate](06-integrate.md)
 
-- Optimization config file
-- Code for optimization]
+- [Optimization config file](06-integrate.md)
+- [Code for optimization](06-integrate.md)
 
 [Settings](07-setting.md)
 

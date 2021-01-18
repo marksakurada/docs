@@ -10,7 +10,7 @@ You can also use the benchmark to compare the results from two engines. This wil
 
 1. Click **ADD BENCHMARK**.
 
-    <img src="images/image_44.jpg" alt="(Create benchmark form)" width="380" height="250">
+    <kbd><img src="images/image_44.jpg" alt="(Create benchmark form)" width="380" height="250" /></kbd>
 
 2. Create a benchmark by indicating the inference engine to use for the benchmark, a benchmark that you want to compare to (optional, as described in [Running a Comparative Benchmark](#running-a-comparative-benchmark), optimization version (optional), core counts, and batch sizes.
 
@@ -24,61 +24,61 @@ You can also use the benchmark to compare the results from two engines. This wil
 
 Using the specified engine, a benchmark is run for the batch size(s) and core count(s) that you selected.
 
-<img src="images/image_46.jpg" alt="(Running benchmark loading)" width="440" height="180">
+<kbd><img src="images/image_46.jpg" alt="(Running benchmark loading)" width="440" height="180" /></kbd>
 
 Then, the Metric information is displayed. Here is an example of a benchmark with three batch sizes and three core counts specified:
 
-<img src="images/image_47.jpg" alt="(Example metric information)" width="440" height="190">
+<kbd><img src="images/image_47.jpg" alt="(Example metric information)" width="440" height="190" /></kbd>
 
 If you run a benchmark with multiple batch sizes and/or core counts, all of the scenarios are examined. You can display the resulting information based on the baseline, core scaling, or batch size scaling. Here is an example of baseline information:
 
-<img src="images/image_48.jpg" alt="(Baseline circled)" width="440" height="180">
+<kbd><img src="images/image_48.jpg" alt="(Baseline circled)" width="440" height="180" /></kbd>
 
 You can select the cores and/or batch size on the right to see different scenarios.
 
-If you display based on core scaling, the information shows the average values at different core counts with a fixed batch size. 
+If you display based on core scaling, the information shows the average values at different core counts with a fixed batch size.
 
-<img src="images/image_49.jpg" alt="(Core scaling circled)" width="440" height="180">
+<kbd><img src="images/image_49.jpg" alt="(Core scaling circled)" width="440" height="180" /></kbd>
 
 You can change the batch size with the drop-down on the right to see the different scenarios. For example:
 
-<img src="images/image_50.jpg" alt="(Batch size drop-down)" width="440" height="180">
+<kbd><img src="images/image_50.jpg" alt="(Batch size drop-down)" width="440" height="180" /></kbd>
 
-If you display based on batch size scaling, the information shows the average values at different batch sizes with a fixed core count. 
+If you display based on batch size scaling, the information shows the average values at different batch sizes with a fixed core count.
 
-<img src="images/image_51.jpg" alt="(Batch size scaling circled)" width="440" height="180">
+<kbd><img src="images/image_51.jpg" alt="(Batch size scaling circled)" width="440" height="180" /></kbd>
 
 You can change the core count with the drop-down on the right to see the different scenarios. For example:
 
-<img src="images/image_52.jpg" alt="(Core count drop-down)" width="440" height="180">
+<kbd><img src="images/image_52.jpg" alt="(Core count drop-down)" width="440" height="180" /></kbd>
 
 As you add benchmarks, they are displayed starting with the most recent and sorted in chronological order. For example:
 
-<img src="images/image_53.jpg" alt="(Two benchmarks displayed)" width="370" height="300">
+<kbd><img src="images/image_53.jpg" alt="(Two benchmarks displayed)" width="370" height="300" /></kbd>
 
 ## Running a Comparative Benchmark
 
 You can run a benchmark and indicate that you want to compare it to another, existing benchmark.
 
-<img src="images/image_54.jpg" alt="(Benchmark form with comparison enabled)" width="440" height="280">
+<kbd><img src="images/image_54.jpg" alt="(Benchmark form with comparison enabled)" width="440" height="280" /></kbd>
 
 The benchmark shows a comparative graph.
 
-<img src="images/image_55.jpg" alt="(Comparative graph)" width="400" height="160">
+<kbd><img src="images/image_55.jpg" alt="(Comparative graph)" width="400" height="160" /></kbd>
 
 You can display based on either engine:
 
-<img src="images/image_56.jpg" alt="(Two engines circled)" width="400" height="160">
+<kbd><img src="images/image_56.jpg" alt="(Two engines circled)" width="400" height="160" /></kbd>
 
 ## Re-Running a Benchmark
 
 You can re-run a specific benchmark using the same conditions used for the original run. This will create a new benchmark with the same settings.
 
-Click the <img src="images/image_58.jpg" alt="(Menu icon)" width="4" height="15"> menu button and then **Re-run Benchmark**.
+Click the <kbd><img src="images/image_58.jpg" alt="(Menu icon)" width="4" height="15" /></kbd> menu button and then **Re-run Benchmark**.
 
 ## Removing a Benchmark
 
-Click the <img src="images/image_58.jpg" alt="(Menu icon)" width="4" height="15"> menu button and then **Remove**.
+Click the <kbd><img src="images/image_58.jpg" alt="(Menu icon)" width="4" height="15" /></kbd> menu button and then **Remove**.
 
 ---
 **Next step...**
