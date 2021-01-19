@@ -1,6 +1,6 @@
 # Sparsify User Guide
 
-## [FIX TOC LINKS IN END]
+## Easy-to-use interface to automatically sparsify and fine-tune models for better performance and smaller footprint
 
 [Welcome to Sparsify](01-intro.md)
 
