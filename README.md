@@ -1,3 +1,18 @@
+<!---
+Copyright (c) 2021 - present / Neuralmagic, Inc. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
 
 <div align="center"><h2>Neural Magic Documentation</h2></div>
 
@@ -34,7 +49,7 @@ To file a docs issue for a specific software component, use its repo issue track
 | [SparseML](https://docs.neuralmagic.com/sparseml/)| [Repo](https://github.com/neuralmagic/sparseml/) |  [Queue](https://github.com/neuralmagic/sparseml/issues/) | [Index](https://github.com/neuralmagic/spareml/releases/) | Apache 2.0 |
 | [Sparsify](https://docs.neuralmagic.com/sparsify/) | [Repo](https://github.com/neuralmagic/sparsify/) | [Queue](https://github.com/neuralmagic/sparsify/issues/) | [Index](https://github.com/neuralmagic/sparsify/releases/) | Apache 2.0 |
 | [SparseZoo](https://docs.neuralmagic.com/sparsezoo/)  | [Repo](https://github.com/neuralmagic/sparsezoo/) | [Queue](https://github.com/neuralmagic/sparsezoo/issues/) | [Index](https://github.com/neuralmagic/sparsezoo/releases/) | Apache 2.0 |
-| [DeepSparse Engine](https://docs.neuralmagic.com/deepsparse/)  | [Repo](https://github.com/neuralmagic/deepsparse/) | [Queue](https://github.com/neuralmagic/deepsparse/issues/) | [Index](https://github.com/neuralmagic/deepsparse/releases/)  | Apache 2.0 and Neural Magic Engine 1.0 |
+| [DeepSparse Engine](https://docs.neuralmagic.com/deepsparse/)  | [Repo](https://github.com/neuralmagic/deepsparse/) | [Queue](https://github.com/neuralmagic/deepsparse/issues/) | [Index](https://github.com/neuralmagic/deepsparse/releases/)  | Neural Magic Engine 1.0 |
 
 To contribute to Neural Magic documentation, please:</br>
 
