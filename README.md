@@ -1,17 +1,5 @@
 <!---
 Copyright (c) 2021 - present / Neuralmagic, Inc. All Rights Reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 -->
 
 <div align="center"><h2>Neural Magic Documentation</h2></div>
@@ -53,9 +41,9 @@ To file a docs issue for a specific software component, use its repo issue track
 
 To contribute to Neural Magic documentation, please:</br>
 
-  Open a [GitHub issue](https://github.com/neuralmagic/docs/issues) and give it
+  Open a [GitHub issue](https://github.com/neuralmagic/docs/issues/) and give it
   the `documentation` label.</br>
-  Submit a [pull request](https://github.com/neuralmagic/docs/pulls) with your
+  Submit a [pull request](https://github.com/neuralmagic/docs/pulls/) with your
   proposed documentation changes.</br>
   Get started with
   [writing and formatting on GitHub](https://help.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github).
